@@ -35,8 +35,9 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  whisper_dart: ^0.0.8
+  whisper_dart: ^0.0.10
   file_picker: ^5.2.5
+  get:
 
 
 dev_dependencies:

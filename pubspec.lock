@@ -116,10 +116,18 @@ packages:
     dependency: transitive
     description:
       name: galaxeus_lib
-      sha256: d964b35f25e8b43d8b3d4c25f96b1aa0f7efd8dfd013e37b1cadf36dd59b79be
+      sha256: "008866c1468aac707740a47247d686231de959487b3ba32bdea4e5ac82d9743d"
       url: "https://pub.dev"
     source: hosted
-    version: "0.0.52"
+    version: "0.0.54"
+  get:
+    dependency: "direct main"
+    description:
+      name: get
+      sha256: "2ba20a47c8f1f233bed775ba2dd0d3ac97b4cf32fc17731b3dfc672b06b0e92a"
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.6.5"
   http:
     dependency: transitive
     description:
@@ -273,10 +281,10 @@ packages:
     dependency: "direct main"
     description:
       name: whisper_dart
-      sha256: c5a72dc937067701bee9ed5a28e1b567e9ad5c7b4227c14461ea00dbbb7b8c0e
+      sha256: "9ba1bcd810d8329001893543bce66c896bae93590eb3d710e6b402d1de87e51b"
       url: "https://pub.dev"
     source: hosted
-    version: "0.0.8"
+    version: "0.0.10"
   win32:
     dependency: transitive
     description:
