@@ -23,7 +23,7 @@ in the test i used ggml-base.bin (148mb)
 6. select on wav file, to transcribe 
 for example https://github.com/ggerganov/whisper.cpp/blob/master/samples/jfk.wav
 
-7.  click in "To Start Transcribe Audio".. It's running. Only problem that take a long time to transcribe
+7.  click in "To Start Transcribe Audio".. It's running. Only problem that take a long time to transcribe I'm try to understand why
 
 If you have some doubles, open issue or question here in github, thanks!
 
