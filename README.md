@@ -4,7 +4,7 @@ I created this app to testing package whisper dart into Flutter. I tested only i
 
 What did i do?
 
-1. imported package whisper_dart
+1. imported package whisper_dart in pubspec
 2. i copied file libwhisper.so into folder android/app/src/main/jniLibs
 3. i added code below in file android/app/build.gradle
 
